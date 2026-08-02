@@ -46,5 +46,13 @@
   {
     "package": "tidyttmoment",
     "url": "https://github.com/PaulESantos/tidyttmoment"
+  },
+    {
+    "package": "iucnr",
+    "url": "https://github.com/PaulESantos/iucnr"
+  },
+    {
+    "package": "iucnrdata",
+    "url": "https://github.com/PaulESantos/iucnrdata"
   }
 ]
